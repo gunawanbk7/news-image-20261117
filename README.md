@@ -1,7 +1,12 @@
 # news-image-20261117
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/gunawanbk7/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/gunawanbk7/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 Entry for the make.fun competition "Sum up 17 November's world news in one image"
 ($250, top 50 paid, deadline 19 November 2026 07:00 WIB).
+Bounty page: https://make.fun/bounty/news-image-20261117
 
 ## The image
 
